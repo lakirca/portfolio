@@ -47,7 +47,7 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="javascript:;" data-nav-section="projects">
+                    <a href="#project" data-nav-section="projects">
                       Projects
                     </a>
                   </li>

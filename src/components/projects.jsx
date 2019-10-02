@@ -32,6 +32,15 @@ export default class Projects extends Component {
                         <a href="work.html">SimLead</a>
                       </h3>
                       <span>Website</span>
+                      <a
+                        className="visitTag"
+                        href="simlead-faa14.firebaseapp.com/home?fbclid=IwAR2eb4monXDOnO7H790fOoYhqmvhKNc24ttzP5FGHnNWu6lXKDC7DqPYEZ0"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>
@@ -55,6 +64,16 @@ export default class Projects extends Component {
                         <a href="work.html">Kollel</a>
                       </h3>
                       <span>Scheduler Web App</span>
+                      <a
+                        className="visitTag"
+                        href="http://lab.evelthost.com/kollelTest/#/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
+
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>
@@ -78,6 +97,15 @@ export default class Projects extends Component {
                         <a href="work.html">MyBerkey</a>
                       </h3>
                       <span>E-Commerce Web App</span>
+                      <a
+                        className="visitTag"
+                        href="https://myberkey.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>
@@ -101,6 +129,15 @@ export default class Projects extends Component {
                         <a href="work.html">Optic Force</a>
                       </h3>
                       <span>E-Commerce Web App</span>
+                      <a
+                        className="visitTag"
+                        href="https://lab.evelthost.com/optics"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>
@@ -124,6 +161,15 @@ export default class Projects extends Component {
                         <a href="work.html">Trybe</a>
                       </h3>
                       <span>Website</span>
+                      <a
+                        className="visitTag"
+                        href="https://trybe.one"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>
@@ -147,6 +193,15 @@ export default class Projects extends Component {
                         <a href="work.html">ZipCoin</a>
                       </h3>
                       <span>Website</span>
+                      <a
+                        className="visitTag"
+                        href="https://zipcx.io"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="icon-eye"></i>
+                        Visit Site
+                      </a>
                       {/* <p className="icon">
 												<span><a href="javascript:;"><i className="icon-share3" /></a></span>
 												<span><a href="javascript:;"><i className="icon-eye" /> 100</a></span>

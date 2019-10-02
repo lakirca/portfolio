@@ -1843,3 +1843,14 @@ body.offcanvas .colorlib-nav-toggle {
   width: 300px;
   margin-bottom: 80px;
 }
+
+.visitTag {
+  color: #000;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.visitTag:hover {
+  color: #fff;
+}
