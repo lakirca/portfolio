@@ -10,6 +10,7 @@
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
+  "homepage": "https://lazar030.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
