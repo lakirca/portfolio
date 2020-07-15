@@ -936,7 +936,25 @@ body.offcanvas .colorlib-nav-toggle {
 .services.color-6 .icon:after {
   border-color: #4054b2 transparent transparent transparent;
 }
+.services.color-11 .icon {
+  background: #958787;
+}
+.services.color-11 .icon:before {
+  border-color: transparent transparent #958787 transparent;
+}
+.services.color-11 .icon:after {
+  border-color: #958787 transparent transparent transparent;
+}
 
+.services.color-10 .icon {
+  background: #c2dbf8;
+}
+.services.color-10 .icon:before {
+  border-color: transparent transparent #c2dbf8 transparent;
+}
+.services.color-10 .icon:after {
+  border-color: #c2dbf8 transparent transparent transparent;
+}
 .progress-wrap h3 {
   font-size: 16px;
   font-family: 'Quicksand', Arial, sans-serif;
