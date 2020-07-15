@@ -904,6 +904,10 @@ body.offcanvas .colorlib-nav-toggle {
   border-color: #ec5453 transparent transparent transparent;
 }
 
+.services.color-11 {
+  border-bottom: 2px solid #958787;
+}
+
 .services.color-11 .icon {
   background: #958787;
 }
@@ -914,6 +918,9 @@ body.offcanvas .colorlib-nav-toggle {
   border-color: #958787 transparent transparent transparent;
 }
 
+.services.color-10 {
+  border-bottom: 2px solid #c2dbf8;
+}
 .services.color-10 .icon {
   background: #c2dbf8;
 }
