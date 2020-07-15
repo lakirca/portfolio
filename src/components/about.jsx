@@ -161,6 +161,7 @@ export default class About extends Component {
                       <i className='icon-star3'></i>
                       <i className='icon-star3'></i>
                       <i className='icon-star'></i>
+                      <i className='icon-star'></i>
                     </div>
                   </div>
                 </div>

@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                     data-animate-effect='fadeInLeft'
                   >
                     <div className='timeline-entry-inner'>
-                      <div className='timeline-icon color-3'>
+                      <div className='timeline-icon color-2'>
                         <i className='icon-pen2' />
                       </div>
                       <div className='timeline-label'>
@@ -52,7 +52,7 @@ export default class Timeline extends Component {
                       <div className='timeline-label'>
                         <h2>
                           Front End Developer at Evelt, Web Solutions{' '}
-                          <span>January 2019 - present</span>
+                          <span>January 2019 - February 2020</span>
                         </h2>
                         <p>
                           Since start of the 2019. i have been working as Front
